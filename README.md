@@ -9,7 +9,7 @@
    ╚═╝    ╚═════╝   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
 ```
 
-### AI Engineer · Applied ML · Forward Deployed
+### AI Engineer · Applied ML · Forward Deployed Engineer
 
 *Building production AI systems — from client scoping to App Store.*
 
@@ -77,73 +77,6 @@ I sit at the intersection of AI engineering and enterprise software delivery. Th
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 `Render` · `Postman` · `Git`
-
----
-
-## 🚀 Featured Work
-
-### 🏠 Real Estate Mobile App — React Native (Production)
-> Full-stack mobile app deployed to **Google Play Store & Apple App Store**  
-> RBAC (admin / staff / client), AWS S3 media storage, MongoDB auth  
-> Owned end-to-end: scoping → build → deployment → maintenance
-
----
-
-### 🎓 AI Assessment & Proctoring Platform
-> **MediaPipe** head-movement detection + **OpenAI Whisper** verbal scoring  
-> Real-time multi-role RBAC using **Next.js, NestJS, MongoDB**  
-> Built for client delivery at LS OptimAIze
-
----
-
-### 🫀 CardioRisk — Explainable Cardiovascular Risk Prediction
-> End-to-end ML pipeline on Framingham & UCI Cleveland datasets  
-> **SHAP** explainability + **MAPIE** conformal prediction for uncertainty-quantified clinical risk scores  
-> Fairness-aware evaluation across demographic subgroups  
-> `Python` `Scikit-learn` `Random Forest` `Logistic Regression` `SHAP` `MAPIE`
-
----
-
-### 📄 AI Knowledge Agent — RAG Document System
-> PDF ingestion → semantic chunking → vector embedding → context-grounded Q&A  
-> Supports summarization, structured data extraction, and intent-aware querying  
-> Hallucination-reducing retrieval pipeline  
-> `Python` `LangChain` `ChromaDB` `Vector Embeddings` `LLM` `Prompt Engineering`
-
----
-
-### 🎙️ Voice AI Lead Reactivation Agents
-> Deployed conversational voice agents for automated lead reactivation  
-> Platforms: **Omnidimension, VAPI, Synthflow**  
-> AI-tailored, context-aware response logic grounded on company knowledge bases
-
----
-
-## 💼 Experience
-
-**Project Execution & Technical Operations Associate** — *LS OptimAIze* `Jul 2025 – Mar 2026`  
-Owned full client lifecycle: outreach → sales → deal closing → onboarding → delivery → post-launch maintenance.  
-Shipped production apps. Built AI pipelines. Closed real deals.
-
-**Program Vice Chair** — *Business & IT Club, NHCE* `Oct 2024 – Oct 2025`  
-Led technical events, workshops, and industry speaker sessions.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=yuvi-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvi-codes&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvi-codes&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
