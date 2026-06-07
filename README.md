@@ -11,7 +11,7 @@
 
 ### AI Engineer · Applied ML · Forward Deployed Engineer
 
-*Building production AI systems — from client scoping to App Store.*
+*Building production AI systems — from client scoping to Production ready.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj-umang-m)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuvi-codes)
@@ -23,7 +23,7 @@
 
 ## Who I Am
 
-CS undergrad at NHCE Bengaluru (B.Tech CSE — Data Science, CGPA 8.15) with real production scars.
+CS undergrad at NHCE Bengaluru (B.Tech CSE — Data Science) with real production scars.
 
 I don't just build demo projects. I've shipped:
 - 📱 A React Native mobile app on both the **App Store and Play Store** for a real estate firm
